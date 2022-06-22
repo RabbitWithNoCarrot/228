@@ -1,0 +1,9 @@
+RSC Swimming Club has a number of Squads.
+
+These are defined as detailed below:
+
+Tadpoles - This is a beginner group for the under 10 year olds learning to swim
+
+Frogs - This is for the more mature learner wanting to take up swimming
+
+Minnows - This is the first of the skill development for those who can swim
